@@ -1,0 +1,7 @@
+.topbar{min-height:112px;background:var(--header);color:#fff;display:flex;align-items:center;justify-content:space-between;padding:16px 28px;gap:30px;position:relative;z-index:20}
+.brand-block{display:flex;flex-direction:column;gap:7px;min-width:270px}
+.brand{color:#fff;text-decoration:none;font-size:26px;line-height:1}
+.brand-block span{font-size:13px;letter-spacing:.02em;color:#e4e4e4}
+.topbar nav{display:flex;align-items:center;justify-content:flex-end;gap:38px;flex:1}
+.topbar nav a{color:#fff;text-decoration:none;font-size:14px;line-height:1.2;text-align:center;transition:opacity .2s,transform .2s}
+.topbar nav a:hover{opacity:.72;transform:translateY(-2px)}
